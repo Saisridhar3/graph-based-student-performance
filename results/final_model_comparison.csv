@@ -1,0 +1,7 @@
+Model,Feature_Set,Test_RMSE,Test_MAE,Test_R2,CV_RMSE,CV_MAE,CV_R2
+Linear Regression,Traditional,2.1124,1.334,0.7824,1.9252,1.2002,0.8186
+Random Forest,Traditional,1.7632,1.0546,0.8484,1.557,0.9526,0.8788
+Gradient Boosting,Traditional,1.8108,1.1332,0.8401,1.5897,0.9815,0.8735
+Linear Regression,Graph-Enhanced,2.0516,1.3658,0.7947,1.8724,1.2207,0.8276
+Random Forest,Graph-Enhanced,1.7169,1.0548,0.8562,1.6051,1.0034,0.8707
+Gradient Boosting,Graph-Enhanced,1.7934,1.0922,0.8432,1.6081,1.0018,0.8705
